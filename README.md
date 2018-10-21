@@ -1,6 +1,8 @@
 # Arithmetic-Obfuscation
 An Basic (Arithmetic Obfuscation) Using DNLIB
 
+![image](https://i.imgur.com/Kpiiqsp.png)
+
 # Functions
 * ~ Add (+)
 * ~ Sub (-)
